@@ -34,12 +34,20 @@
 <details>
 <summary>Lista z magazynu czekająca na dofinansowanie: </summary>
 <ol>
-<li>Ognisty</li>
-<li>Wodny</li>
-<li>Trawiasty</li>
-<li>Elektryczny</li>
-<li>Psychiczny</li>
-<li>Normalny</li>
+<li>Lodowy</li>
+<li>Smoczy</li>
+<li>Mroczny</li>
+<li>Baśniowy</li>
+<li>???</li>
+<li>Gwiezdny</li>
+<li>Stalowy</li>
+<li>Duchowy</li>
+<li>Robaczy</li>
+<li>Kamienny</li>
+<li>Ziemny</li>
+<li>Trujący</li>
+<li>Latający</li>
+<li>Walczący</li>
 </ol>
   
 </details>
