@@ -29,7 +29,7 @@
 </ol>
   
 </details>
-<br> <br>
+<br> 
 
 <details>
 <summary>Lista z magazynu czekająca na dofinansowanie: </summary>
