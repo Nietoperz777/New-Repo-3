@@ -6,12 +6,8 @@
 ## 
 
 <details>
-<summary>Naciśnij strzałkę by wyświetlić więcej <b>Projekt</b>!
-  <summary>Naciśnij strzałkę by wyświetlić więcej <b>Projekt</b>!
-    <summary>Naciśnij strzałkę by wyświetlić więcej <b>Projekt</b>!
+<summary>Naciśnij strzałkę by wyświetlić więcej <b>Projekt</b>!</summary>
 <b>Lorem ipsum</b>. Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem
 ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem
 </details>
-</summary>
-  </summary>
-    </summary>
+
