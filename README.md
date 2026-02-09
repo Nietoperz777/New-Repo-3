@@ -6,7 +6,8 @@
 ## 
 
 <details>
-<summary><p>Naciśnij strzałkę by wyświetlić więcej <b>Projekt</b>!</p></summary>
+<summary>Naciśnij strzałkę by wyświetlić <i> więcej:</i> <b>Projekt</b>!</summary>
+<p></p>
 <b>Jak dodać mięsko</b>. Krok pierwszy klikamy liczbę podaną w nawiasie (1).
 <strong>Krok drugi wybieramy: </strong> ID do którego jest przypisane odpowiednie mięsko które chcemy wybrać by zaspokoić nasz apetyt. 
 <strong>Krok trzeci wybieramy: </strong> jak chcemy nazwać nasze mięsko zanim je zdegustujemy.
