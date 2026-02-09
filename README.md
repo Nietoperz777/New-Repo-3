@@ -18,6 +18,15 @@
 
 ## lista atrbutów - przynależności "zywiołów" wypisane:
 <details>
+<summary>Lista: </summary>
+<ol>
+0.  <li>Ognisty</li>
+1.  <li>Wodny</li>
+2.  <li>Trawiasty</li>
+3.  <li>Elektryczny</li>
+4.  <li>Psychiczny</li>
+5.  <li>Normalny</li>
+</ol>
   
 </details>
 
