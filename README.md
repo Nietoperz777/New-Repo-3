@@ -18,7 +18,7 @@
 
 ## lista atrbutów - przynależności "zywiołów" wypisane:
 <details>
-<summary>Lista: </summary>
+<summary>Lista-(darmowa): </summary>
 <ol>
 <li>Ognisty</li>
 <li>Wodny</li>
