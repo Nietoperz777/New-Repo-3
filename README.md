@@ -20,12 +20,12 @@
 <details>
 <summary>Lista: </summary>
 <ol>
-0.  <li>Ognisty</li>
-1.  <li>Wodny</li>
-2.  <li>Trawiasty</li>
-3.  <li>Elektryczny</li>
-4.  <li>Psychiczny</li>
-5.  <li>Normalny</li>
+<li>Ognisty</li>
+<li>Wodny</li>
+<li>Trawiasty</li>
+<li>Elektryczny</li>
+<li>Psychiczny</li>
+<li>Normalny</li>
 </ol>
   
 </details>
