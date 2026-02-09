@@ -6,7 +6,9 @@
 ## 
 
 <details>
-<summary>Click here to see general information about <b>Project</b>!</summary>
+<summary>Naciśnij strzałkę by wyświetlić więcej <b>Projekt</b>!</summary>
+  <summary>Naciśnij strzałkę by wyświetlić więcej <b>Projekt</b>!</summary>
+    <summary>Naciśnij strzałkę by wyświetlić więcej <b>Projekt</b>!</summary>
 <b>Lorem ipsum</b>. Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem
 ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem
 </details>
