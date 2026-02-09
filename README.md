@@ -29,4 +29,18 @@
 </ol>
   
 </details>
+<br> <br>
+
+<details>
+<summary>Lista z magazynu czekająca na dofinansowanie: </summary>
+<ol>
+<li>Ognisty</li>
+<li>Wodny</li>
+<li>Trawiasty</li>
+<li>Elektryczny</li>
+<li>Psychiczny</li>
+<li>Normalny</li>
+</ol>
+  
+</details>
 
