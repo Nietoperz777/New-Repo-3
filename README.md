@@ -52,3 +52,6 @@
   
 </details>
 
+# Zdjęcia emotki oraz urozmaicenia:
+
+
