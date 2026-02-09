@@ -54,4 +54,4 @@
 
 # Zdjęcia emotki oraz urozmaicenia:
 
-
+<img src="https://allegro.pl/oferta/pokemon-go-wszystkie-pokemony-plakat-61x91-5-cm-8176537004?srsltid=AfmBOoouUt1wTxiQVDOAJOD990YCWKe7ybP4m5qTezs9DfP7PwiHnf4N" width="560px" height="700px">
